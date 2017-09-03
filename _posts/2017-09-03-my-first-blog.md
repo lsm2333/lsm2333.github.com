@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-这个小站的历史。 内容涉及一个weisuo的男人和一个luosuo的男人。
+这个小站的历史。 两个男人的一次技术碰撞。
 
 <!--more-->
 
