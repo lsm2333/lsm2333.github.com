@@ -1,8 +1,12 @@
 ---
 layout: post
+category: Java
 title: Java回望(1)-HashMap数组与链表
+tagline: by Snail
+tags: 
+  - Java
+published: true
 date: 2018-03-15 22:34:09 +08:00
-tags: "Java"
 ---
 
 没想到离上一篇文章发出已经过去半年时间了，惰性真的很严重，对这个小站算是撒手不管了。最近又有一些想要记载梳理的动力，打算从Java入手，围绕Java几个核心的知识点（例如面试中常常问到的问题）进行整理和记录。
