@@ -11,6 +11,7 @@ date: 2020-05-05 15:58:09 +08:00
 ---	
 趁着五一假期，来回顾下项目中使用到的DB方案吧～
 <!--more-->
+
 过去一年，经历过项目技术迁移（从Python+Mongo到Java+Mysql），也在不同的项目中接触了一些数据库方案（MySql，TiDB，MyCat，MongoDB，Elastic Search等）。接下来，从业务场景，各自优劣来做一些个人理解的阐述。
 
 ##Mysql vs MongoDB：
