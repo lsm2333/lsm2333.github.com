@@ -49,3 +49,8 @@ date: 2020-05-05 15:58:09 +08:00
 - 兼容MySQL语法，迁移时Java端代码改动小。
 - 查询速度快，并且在数据量巨大的情况下查询时间也能维持在可接受范围。基于网络资料，数据量越大，这一优势对比MySq更明显。
 - TiDB支持自动Sharding，业务段不需要切表操作。也不需要像使用中间件时自己指定sharding key。底层存储会自动将数据均匀分散在集群中，存储空间和性能可以通过增加机器快速实现，降低运维成本。
+
+
+参考：
+- [日均数据量千万级，MySQL、TiDB 两种存储方案的落地对比](https://segmentfault.com/a/1190000008644583?utm_source=tag-newest)
+- [tidb与mysql_mycat对比](https://blog.csdn.net/tiandao321/article/details/85760275)
